@@ -19,5 +19,7 @@
 <div align="center">
   
   ![Snake animation](https://github.com/Rapha-Borges/Rapha-Borges/blob/output/github-contribution-grid-snake.svg)
+
+  [![An image of @raphaelborges's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/raphaelborges)](https://holopin.io/@raphaelborges)
   
 </div>
