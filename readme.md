@@ -27,7 +27,7 @@
 
 [comment]: # (Badges)
 <div style="display: flex; flex-direction: column;" align="center">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57201215" style="width: 180px; height: 180px; display: inline;
+  <img src="https://user-images.githubusercontent.com/53947674/218383400-81cb9b2b-1679-4f34-a71c-c88fb1d472dc.png" style="width: 180px; height: 180px; display: inline;
 margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210863646-79eeee79-6ceb-42a3-beb9-79ffcd8f9bf6.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210869899-cbb242b9-db7c-4f69-a678-9c5bbd3bd86d.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
