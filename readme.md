@@ -1,8 +1,18 @@
 [comment]: # (About)
 <div>
   <h3 align="left">Hi, I'm Raphael Borges</h3>
-  <h4 align="left"> Systems Analysis and Development student with experience in network infrastructure, cloud providers (AWS, OCI), and containers (Docker, Kubernetes). I also work with python and web development (HTML and CSS) in private projects.</h4><br>
+  <h4 align="left"> I am a student of Systems Analysis and Development at Uninter. I am passionate about network infrastructure, cloud providers, and containers, and I have been working to improve my skills in these areas through personal projects and studies.</h4>
 </div>
+
+<details>
+  <summary>More about me</summary>
+    <h4 align="left">One of the projects I developed was in Docker Compose, where I created a Django application integrated with a database, using Nginx Proxy Manager as a reverse proxy. Through this project, I gained skills in container configuration and management, as well as in the creation and management of Python applications. (https://github.com/Rapha-Borges/Django-Portifolio)</h4>
+    <h4 align="left">Recently, I started working on a template project for digital books (ebooks) with support for multiple languages. I am using mdbook and its plugins to implement this solution, seeking to offer a more efficient and elegant way to produce and publish digital books in different languages. (https://www.r11s.com.br/modelo-mdbook/)</h4>
+    <h4 align="left">In addition, I have skills in web development with Python, HTML, CSS, Bootstrap, and other technologies, as well as skills in Shell and C. I am proficient in various platforms such as Linux, MacOS, and Windows, and I have skills in configuring web servers such as Apache and Nginx. I work with Git, Gitpod, GitHub, and GitHub Actions, and I have experience with databases such as DynamoDB, MySQL, PostgreSQL, and SQLite.</h4>
+    <h4 align="left">I have an intermediate level of proficiency in English, which allows me to communicate effectively and understand technical documentation. Additionally, I have a basic knowledge of French, which enables me to have a basic understanding of the language.</h4>
+    <h4 align="left">If you are interested in getting in touch with me, please feel free to send me a message on LinkedIn or through my email. It would be a pleasure to talk with you and discuss how my skills and experience can be applied to achieve the goals of your company.</h4>
+  
+</details>
 
 [comment]: # (Skills)
 <details open>
@@ -61,6 +71,8 @@
 </div><br>
  
 [comment]: # (Badges)
+<details>
+<summary>Badges</summary>
 <div style="display: flex; flex-direction: column;" align="center">
   <img src="https://user-images.githubusercontent.com/53947674/218383400-81cb9b2b-1679-4f34-a71c-c88fb1d472dc.png" style="width: 180px; height: 180px; display: inline;
 margin-right: 30px !important;">
@@ -68,7 +80,7 @@ margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210869899-cbb242b9-db7c-4f69-a678-9c5bbd3bd86d.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210869925-e7672e5a-6a6e-4caf-a582-486e109226c8.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
 </div><br>
-
+</details>
   
 [comment]: # (Social button)
 <div align="right">
@@ -76,3 +88,4 @@ margin-right: 30px !important;">
   <a href="https://linkedin.com/in/raphael-do-nascimento-borges/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://linktr.ee/raphael_borges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
+  
