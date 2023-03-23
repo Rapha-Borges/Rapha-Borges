@@ -66,8 +66,8 @@
 [comment]: # (GitHub Stats)
 <div align="center">
   <a href="https://github.com/Rapha-Borges">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Rapha-Borges&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapha-Borges&theme=dark&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rapha-Borges&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapha-Borges&theme=dark&layout=compact"/>
 </div><br>
  
 [comment]: # (Badges)
