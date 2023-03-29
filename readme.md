@@ -1,8 +1,16 @@
 [comment]: # (About)
-<div>
-  <h3 align="left">Hi, I'm Raphael Borges</h3>
-  <h4 align="left"> I am a student of Systems Analysis and Development at Uninter. I am passionate about network infrastructure, cloud providers, and containers, and I have been working to improve my skills in these areas through personal projects and studies.</h4>
+
+<h1 align="center"> Raphael Borges </h1>
+
+<div align="center">
+  <b>DevOps | AWS | Docker | Kubernetes | Python</b>
 </div>
+
+<blockquote>
+  <p><i>
+    <h4> I am a student of Systems Analysis and Development at Uninter. I am passionate about network infrastructure, cloud providers, and containers, and I have been working to improve my skills in these areas through personal projects and studies. </h4>
+  </i></p>
+</blockquote>
 
 <details>
   <summary>More about me</summary>
@@ -19,7 +27,7 @@
 
 <summary markdown="open">Skills</summary><br>
 
-<div style="display: inline_block" align="left">
+<div>
   
   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -61,14 +69,16 @@
 </div>
 <br>
 
-</details><br>
-
 [comment]: # (GitHub Stats)
 <div align="center">
   <a href="https://github.com/Rapha-Borges">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rapha-Borges&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapha-Borges&theme=dark&layout=compact"/>
-</div><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapha-Borges&hide=handlebars,less,scss,jupyter%20notebook&langs_count=6&layout=compact&show_icons=true&line_height=27&&theme=dark&custom_title=My%20favorite%20languages"alt="My favorite languages"/>
+ </div><br>
+
+</details>
+
+
  
 [comment]: # (Badges)
 <details>
