@@ -8,15 +8,13 @@
 
 <blockquote>
   <p><i>
-    <h4> I am a student of Systems Analysis and Development at Uninter. I am passionate about network infrastructure, cloud providers, and containers, and I have been working to improve my skills in these areas through personal projects and studies. </h4>
+    <h4> Hello, my name is Raphael Borges, and I am a student of analysis and systems Development at Uninter. I have skills in network infrastructure, cloud providers, and containers, with experience in web development using Python, HTML, CSS, Bootstrap, and other technologies. </h4>
   </i></p>
 </blockquote>
 
 <details>
   <summary>More about me</summary>
-    <h4 align="left">One of the projects I developed was in Docker Compose, where I created a Django application integrated with a database, using Nginx Proxy Manager as a reverse proxy. Through this project, I gained skills in container configuration and management, as well as in the creation and management of Python applications. (https://github.com/Rapha-Borges/Django-Portifolio)</h4>
-    <h4 align="left">Recently, I started working on a template project for digital books (ebooks) with support for multiple languages. I am using mdbook and its plugins to implement this solution, seeking to offer a more efficient and elegant way to produce and publish digital books in different languages. (https://www.r11s.com.br/modelo-mdbook/)</h4>
-    <h4 align="left">In addition, I have skills in web development with Python, HTML, CSS, Bootstrap, and other technologies, as well as skills in Shell and C. I am proficient in various platforms such as Linux, MacOS, and Windows, and I have skills in configuring web servers such as Apache and Nginx. I work with Git, Gitpod, GitHub, and GitHub Actions, and I have experience with databases such as DynamoDB, MySQL, PostgreSQL, and SQLite.</h4>
+    <h4 align="left">I actively contribute to open-source projects, as demonstrated by my work on the development of a command-line interface (CLI) called mdbookcli. The purpose of this CLI is to assist in the implementation of books based on mdbook using Markdown files. My current work can be seen in open-source projects like py2rs and also in some books from the LINUXtips school training program, including the book "Descomplicando Prometheus". For more details, you can check out my projects on GitHub.</h4>
     <h4 align="left">I have an intermediate level of proficiency in English, which allows me to communicate effectively and understand technical documentation. Additionally, I have a basic knowledge of French, which enables me to have a basic understanding of the language.</h4>
     <h4 align="left">If you are interested in getting in touch with me, please feel free to send me a message on LinkedIn or through my email. It would be a pleasure to talk with you and discuss how my skills and experience can be applied to achieve the goals of your company.</h4>
   
