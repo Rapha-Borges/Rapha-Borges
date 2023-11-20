@@ -6,15 +6,14 @@
   <b>DevOps | AWS | Docker | Kubernetes | Python</b>
 </div>
 
-<blockquote>
+
   <p><i>
-    <h4> Hello, my name is Raphael Borges, and I am a student of analysis and systems Development at Uninter. I have skills in network infrastructure, cloud providers, and containers, with experience in web development using Python, HTML, CSS, Bootstrap, and other technologies. </h4>
+    <h4> Hello, my name is Raphael Borges, and I am a student of analysis and systems Development at Uninter, certified as an AWS Certified Cloud Practitioner and mentored by Mateus Prado (AWS TAM). With over 15 years of experience in Linux systems, I have been actively involved in open-source projects. I am currently focused on specializing in Containers and Kubernetes through the LINUXtips Intensive Program in Containers and Kubernetes (PICK). My expertise includes network infrastructure, cloud services, container orchestration, complemented by practical experience in software development and database management.
   </i></p>
-</blockquote>
+
 
 <details>
   <summary>More about me</summary>
-    <h4 align="left">I actively contribute to open-source projects, as demonstrated by my work on the development of a command-line interface (CLI) called mdbookcli. The purpose of this CLI is to assist in the implementation of books based on mdbook using Markdown files. My current work can be seen in open-source projects like py2rs and also in some books from the LINUXtips school training program, including the book "Descomplicando Prometheus". For more details, you can check out my projects on GitHub.</h4>
     <h4 align="left">I have an intermediate level of proficiency in English, which allows me to communicate effectively and understand technical documentation. Additionally, I have a basic knowledge of French, which enables me to have a basic understanding of the language.</h4>
     <h4 align="left">If you are interested in getting in touch with me, please feel free to send me a message on LinkedIn or through my email. It would be a pleasure to talk with you and discuss how my skills and experience can be applied to achieve the goals of your company.</h4>
   
@@ -82,6 +81,7 @@
 <details>
 <summary>Badges</summary>
 <div style="display: flex; flex-direction: column;" align="center">
+  <img src="https://github.com/Rapha-Borges/Rapha-Borges/assets/53947674/433675d3-defb-4f0e-a223-1d8f69eea87e" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/218383400-81cb9b2b-1679-4f34-a71c-c88fb1d472dc.png" style="width: 180px; height: 180px; display: inline;
 margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210863646-79eeee79-6ceb-42a3-beb9-79ffcd8f9bf6.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
@@ -96,4 +96,3 @@ margin-right: 30px !important;">
   <a href="https://linkedin.com/in/raphael-do-nascimento-borges/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://linktr.ee/raphael_borges" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
-  
