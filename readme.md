@@ -20,7 +20,7 @@
 </details>
 
 [comment]: # (Skills)
-<details open>
+<details>
 
 <summary markdown="open">Skills</summary><br>
 
