@@ -8,12 +8,12 @@
 
 
   <p><i>
-    <h4> Hello, my name is Raphael Borges, and I am a student of analysis and systems Development at Uninter, certified as an AWS Certified Cloud Practitioner and mentored by Mateus Prado (AWS TAM). With over 15 years of experience in Linux systems, I have been actively involved in open-source projects. I am currently focused on specializing in Containers and Kubernetes through the LINUXtips Intensive Program in Containers and Kubernetes (PICK). My expertise includes network infrastructure, cloud services, container orchestration, complemented by practical experience in software development and database management.
+    <h4> Hello, I am Raphael Borges, a student of Analysis and Systems Development at Uninter. I hold certifications as an AWS Certified Cloud Practitioner and Oracle Cloud Infrastructure Foundations Associate, and I am mentored by Mateus Prado, an AWS TAM. With over 15 years of experience in Linux systems, I have actively participated in open-source projects. Currently, my focus is on specializing in Containers and Kubernetes through the LINUXtips Intensive Program in Containers and Kubernetes (PICK). My expertise encompasses network infrastructure, cloud services, container orchestration, complemented by practical experience in software development and database management.
   </i></p>
 
 
 <details>
-  <summary>More about me</summary>
+  <summary>More</summary>
     <h4 align="left">I have an intermediate level of proficiency in English, which allows me to communicate effectively and understand technical documentation. Additionally, I have a basic knowledge of French, which enables me to have a basic understanding of the language.</h4>
     <h4 align="left">If you are interested in getting in touch with me, please feel free to send me a message on LinkedIn or through my email. It would be a pleasure to talk with you and discuss how my skills and experience can be applied to achieve the goals of your company.</h4>
   
@@ -82,11 +82,14 @@
 <summary>Badges</summary>
 <div style="display: flex; flex-direction: column;" align="center">
   <img src="https://github.com/Rapha-Borges/Rapha-Borges/assets/53947674/433675d3-defb-4f0e-a223-1d8f69eea87e" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
+  <img src="https://github.com/Rapha-Borges/Rapha-Borges/assets/53947674/77a58ceb-5761-4d09-ae92-62be74c8ac61" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/218383400-81cb9b2b-1679-4f34-a71c-c88fb1d472dc.png" style="width: 180px; height: 180px; display: inline;
 margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210863646-79eeee79-6ceb-42a3-beb9-79ffcd8f9bf6.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210869899-cbb242b9-db7c-4f69-a678-9c5bbd3bd86d.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
   <img src="https://user-images.githubusercontent.com/53947674/210869925-e7672e5a-6a6e-4caf-a582-486e109226c8.png" style="width: 180px; height: 180px; display: inline; margin-right: 30px !important;">
+  
+  
 </div><br>
 </details>
   
