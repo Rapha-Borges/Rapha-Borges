@@ -20,5 +20,6 @@
 - Do you want a free Kubernetes cluster?  [OKE-FREE](https://github.com/Rapha-Borges/oke-free)
 - Co-author [Descomplicando Kubernetes](https://github.com/badtuxx/DescomplicandoKubernetes)
 - Expert in Container and Kubernetes by [PICK](https://www.linuxtips.io/pick)
+- Do you already know [Digestabot](https://dev.to/raphaborges/do-you-already-know-digestabot-3n16)? 
   
 </div>
