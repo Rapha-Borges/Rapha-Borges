@@ -3,7 +3,7 @@
 <h1 align="center"> Raphael Borges </h1>
 
 <div align="center">
-  <b>DevOps Engineer | Docker | Kubernetes | 1x AWS | 3x OCI | Kyverno Certified</b>
+  <b> Senior DevOps Engineer | 1x AWS | 5x OCI | 1x Azure | 1x Datadog | 1x GitHub | 1x Kyverno </b>
 </div><br>
 
 [comment]: # (Social button)
